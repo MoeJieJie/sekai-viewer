@@ -1,0 +1,57 @@
+{
+  "home": "Главная",
+  "card": "Карты",
+  "music": "Песни",
+  "gacha": "Гача",
+  "event": "Ивенты",
+  "stamp": "",
+  "unit": "Юниты",
+  "member": "Участники",
+  "musicMeta": "",
+  "scoreCalculator": "",
+  "toolbar": {
+    "title": "Функции"
+  },
+  "information": "Информация",
+  "tools": "",
+  "settings": {
+    "title": "Настройки"
+  },
+  "language": "Язык",
+  "darkmode": "Режим яркости",
+  "contentTranslationMode": {
+    "title": "",
+    "original": "",
+    "translated": "",
+    "both": ""
+  },
+  "id": "ID",
+  "title": "Название",
+  "character": "Персонаж",
+  "support_unit": "",
+  "attribute": "Атрибут ",
+  "startAt": "Доступно с",
+  "rarity": "Редкость",
+  "thumb": "Иконка",
+  "skill": "Навык",
+  "releaseCondition": "Способ получения",
+  "releaseCosts": "",
+  "rewards": "",
+  "type": "Тип",
+  "endAt": "Доступно до",
+  "icon": "Баннер",
+  "detect": {
+    "checking": "Проверка...",
+    "unsupported": "Не поддерживается",
+    "supported": "Поддерживается"
+  },
+  "support": "Поддержка",
+  "campaign": "Компания",
+  "bug": "Баги",
+  "update": "Обновления",
+  "character_0": "",
+  "character_1": "",
+  "character_2": "",
+  "level": "Уровень",
+  "character_plural": "Персонажи"
+}
